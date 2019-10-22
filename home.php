@@ -64,7 +64,7 @@
 
 
 	<script src="mapScript.js"></script>
-	<script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyDOnLq8-tIRSCIJdS1am1k2LtflvtEVMVI&libraries=places&callback=initMap"
+	<script src="http://maps.googleapis.com/maps/api/js?key=SampleKey&libraries=places&callback=initMap"
     async defer></script>
 
 
